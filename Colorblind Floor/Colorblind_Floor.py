@@ -13,6 +13,7 @@ colourToFind = pix[1000,230]
 
 
 #? iterate over whole image and find the colour
+found = False
 for i in range(sizeOfImage[0]):
     for p in range(sizeOfImage[1]):
         if pix[i,p] == colourToFind:
