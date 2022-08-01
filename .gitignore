@@ -130,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Red_Light_Green_Light/PRIVATE_Red_Light_Green_Light.py
+Colorblind Floor/PRIVATE_Colorblind_Floor.py
